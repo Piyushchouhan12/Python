@@ -1,0 +1,6 @@
+VS code shortcut for Python
+1. # to comment 1 line
+2. ''' dsd '''  to comment multiple lines
+3. ALT + Clik multiple so that it can edit multiple places.
+4. ALT + downarrow ket to replicate the above line.
+5. Square = a**2
